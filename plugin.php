@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Toggle ACF flexible layouts.
  * Description: Toggle ACF flexible layouts for better usability when managing flexible layouts.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Timi-Artturi Mäkelä
  * Author URI: https://github.com/Liblastic
  * License: GPL-3.0

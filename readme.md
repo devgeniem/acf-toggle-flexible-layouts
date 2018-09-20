@@ -17,7 +17,7 @@ add to your composer.json
 ### Composer
 Install by composer command
 ```
-composer require devgeniem/acf-codifier
+composer require devgeniem/wp-close-acf-flexible-layouts
 ```
 OR add it in your `composer.json`:
 ```

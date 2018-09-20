@@ -1,7 +1,7 @@
 {
-    "name": "devgeniem/wp-close-acf-flexible-layouts",
+    "name": "devgeniem/acf-toggle-flexible-layouts",
     "type": "wordpress-plugin",
-    "description": "Adds a button to toggle all flexible fields in admin side",
+    "description": "Adds a button to toggle flexible layouts in admin side.",
     "authors": [
         {
             "name": "Timi-Artturi Mäkelä",

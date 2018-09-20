@@ -1,0 +1,18 @@
+{
+    "name": "devgeniem/wp-close-acf-flexible-layouts",
+    "type": "wordpress-plugin",
+    "description": "Adds a button to toggle all flexible fields in admin side",
+    "authors": [
+        {
+            "name": "Timi-Artturi Mäkelä",
+            "email": "timi.makela@geniem.com",
+            "homepage": "http://geniem.fi/",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "wordpress", "cache"
+    ],
+    "license": "GPL-3.0",
+    "minimum-stability": "dev"
+}

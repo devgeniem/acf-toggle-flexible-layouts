@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Toggle ACF flexible layouts.\n"
+"POT-Creation-Date: 2018-09-20 16:26+0100\n"
+"PO-Revision-Date: 2018-09-20 16:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: plugin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: plugin.php:67
+msgid "Show all layouts"
+msgstr "Näytä kaikki osiot"
+
+#: plugin.php:68
+msgid "Hide all layouts"
+msgstr "Piilota kaikki osiot"
+
+#. Plugin Name of the plugin/theme
+msgid "Toggle ACF flexible layouts."
+msgstr "Näytä/piilota ACF osioita."
+
+#. Description of the plugin/theme
+msgid ""
+"Toggle ACF flexible layouts for better usability when managing flexible "
+"layouts."
+msgstr "Näytä/piilota ACF joustavia sisältöosioita."
+
+#. Author of the plugin/theme
+msgid "Timi-Artturi Mäkelä"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/Liblastic"
+msgstr ""
+
+#~ msgid "Show all fields"
+#~ msgstr "Näytä kaikki kentät"
+
+#~ msgid "Hide all fields"
+#~ msgstr "Piilota kaikki kentät"

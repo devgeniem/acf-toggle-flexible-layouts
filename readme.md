@@ -17,13 +17,13 @@ add to your composer.json
 ### Composer
 Install by composer command
 ```
-composer require devgeniem/wp-close-acf-flexible-layouts
+composer require devgeniem/acf-toggle-flexible-layouts
 ```
 OR add it in your `composer.json`:
 ```
 {
   "require": {
-    "devgeniem/wp-close-acf-flexible-layouts": "*"
+    "devgeniem/acf-toggle-flexible-layouts": "*"
   }
 }
 ```
